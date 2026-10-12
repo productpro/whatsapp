@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"QuickStore home"},{"path":"/dashboard","title":"Merchant dashboard"},{"path":"/auth/callback","title":"Authentication callback"},{"path":"/store/:slug","title":"Storefront"}]}
